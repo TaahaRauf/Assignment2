@@ -30,5 +30,11 @@
     <ClCompile Include="Question6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Question12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Question 14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

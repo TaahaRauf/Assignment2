@@ -85,11 +85,11 @@ int main()
 				else {
 					month = month + 1;
 					date = 1;
-					cout << date << "/" << month << "/" << year;
+					cout << date << "/" << month << "/" << year ;
 				}
 			}
 		}
-		if (date < 30) {
+		else if (date < 30) {
 			date = date + 1;
 			cout << date << "/" << month << "/" << year;
 		}
